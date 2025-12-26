@@ -1,0 +1,16 @@
+{
+  "inference": {
+    "0": "bs_roformer",
+    "6": "False",
+    "7": false,
+    "8": false,
+    "9": false
+  },
+  "train": {
+    "100": "mdx23c",
+    "101": "configs/config_mdx23c_musdb18.yaml",
+    "103": "results",
+    "106": 4,
+    "107": "0"
+  }
+}
